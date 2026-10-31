@@ -12,7 +12,7 @@ export default function RootLayout({ children }) {
         <header>
           <nav>
             <a href="/" className="logo">AI Tools Review Hub</a>
-            <div>
+            <div className="nav-links">
               <a href="/reviews">Reviews</a>
               <a href="/about">About</a>
             </div>
